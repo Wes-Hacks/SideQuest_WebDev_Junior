@@ -23,3 +23,7 @@ You must create a css file that will style the website to look as good as possib
 - No JavaScript or TypeScript is allowed other than what is provided in the template
 
 ---
+
+## Important
+
+After you complete the code, You agree to give the made code to the organisers afterwards.

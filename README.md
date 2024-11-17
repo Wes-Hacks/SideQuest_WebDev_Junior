@@ -27,3 +27,9 @@ You must create a css file that will style the website to look as good as possib
 ## Important
 
 After you complete the code, You agree to give the made code to the organisers afterwards.
+
+It must be in a folder with your team name on it and your ID + the words `SideQuest_WebDev_Junior`
+
+Example `TEAM-NAME_###_SideQuest_WebDev_Junior`
+
+---
